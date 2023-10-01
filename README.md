@@ -47,8 +47,6 @@ By participating in Hacktoberfest through this repository, you not only get the 
 
 Help us make Hacktoberfest 2023 even more fantastic by sharing this repository with your developer friends and on social media. Let's make this year's event the best one yet!
 
-![Hacktoberfest Logo]([hacktoberfest-logo.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2Fhacktoberfest&psig=AOvVaw1oitYYZRm1kDiOqqNRBTRe&ust=1696260458895000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNDpkOKU1YEDFQAAAAAdAAAAABAE))
-
 Use the hashtags #Hacktoberfest, #OpenSource, and #Hacktoberfest2023 to join the conversation on social media.
 
 Ready to get started? Fork this repository and add your project now! 🚀
