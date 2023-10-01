@@ -1,4 +1,3 @@
-
 # Hacktoberfest 2023 Projects Showcase
 
 Welcome to the Hacktoberfest 2023 Projects Showcase repository! 🚀
